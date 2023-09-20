@@ -12,7 +12,6 @@ bl_info = {
 }
 
 import bpy
-from bpy.types import Operator, Panel
 data = bpy.data
 import itertools
 
